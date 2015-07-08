@@ -10,6 +10,8 @@ namespace LogDynamicsLab.InfluxDataImporttool
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TEST");
+            Console.ReadLine();
         }
     }
 }
